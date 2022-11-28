@@ -1,9 +1,13 @@
-Домашнее задание 1. Муравлев Роман<br>
 
+<<<<<<< Updated upstream
 <?php 
 $arr = [
 
 ];
+=======
+
+<?php 
+>>>>>>> Stashed changes
 
 var_dump($arr);
  ?>
