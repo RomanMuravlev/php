@@ -1,5 +1,5 @@
 <?php
-namespace core;
+namespace core; 
 class foo1
 {
     public int $size = 5;

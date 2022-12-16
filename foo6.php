@@ -1,6 +1,6 @@
 <?php
-namespace core;
-
+namespace core; 
+ 
 class foo6 extends foo3 {
     public int $key;
 
