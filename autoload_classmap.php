@@ -14,3 +14,4 @@ return array(
     'core\\foo5' => $baseDir . '/core/foo5.php',
     'core\\foo6' => $baseDir . '/core/foo6.php',
 );
+
