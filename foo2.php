@@ -1,5 +1,5 @@
 <?php
-namespace core;
+namespace core; 
 class foo2  extends foo1 {
     public int $height = 1;
 
