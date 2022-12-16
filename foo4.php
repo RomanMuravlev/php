@@ -1,5 +1,5 @@
 <?php
-namespace core;
+namespace core; 
 
 final class foo4 extends foo1 {
     public int $width = 1;
